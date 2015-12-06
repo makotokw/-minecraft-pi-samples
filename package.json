@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-pi-samples",
+  "version": "1.0.0",
+  "description": "Minecraft Pi Samples",
+  "author": "Makoto Kawasaki",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-replace": "^0.5.4"
+  }
+}

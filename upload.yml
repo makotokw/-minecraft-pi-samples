@@ -1,0 +1,7 @@
+---
+- hosts: rpi
+  sudo: no
+  tasks:
+    - copy:
+        src: ./samples/
+        dest: /home/pi/minecraft-pi-samples/
